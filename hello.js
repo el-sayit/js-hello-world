@@ -4,7 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("'Hello, World!'"); /* will get an error without parentheses */
+console.log('Ilmurods new journey!') /*removing the semicolon will still run the program without an error*/
+console.log("Ilmurod's new journey"); /* using double quotes lets using single quotes inside the text or other way. either single or double quotes need to be used always*/
+console.log(15 + 15);
+console.log("message1");
+console.log('message2');
+console.log('Message one ' + 'Message Two' );
+console.log('Quoth the Raven "Nevermore"'); /* we need to include both opening and closing quote marks and they need to be the same*/
+console.log("one plus one equals:", 1+1);
 
 /*  
 Next, PLAY! 
