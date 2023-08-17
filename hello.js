@@ -4,16 +4,17 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("'Hello, World!'"); /* will get an error without parentheses */
-console.log('Ilmurods new journey!') /*removing the semicolon will still run the program without an error*/
-console.log("Ilmurod's new journey"); /* using double quotes lets using single quotes inside the text or other way. either single or double quotes need to be used always*/
+console.log("'Hello, World!'"); // will get an error without parentheses 
+console.log('Ilmurods new journey!') //removing the semicolon will still run the program without an error
+console.log("Ilmurod's new journey"); // either single or double quotes can be used for text
 console.log(15 + 15);
-console.log("message1");
-console.log('message2');
-console.log('Message one ' + 'Message Two' );
-console.log('Quoth the Raven "Nevermore"'); /* we need to include both opening and closing quote marks and they need to be the same*/
+console.log("message1", "message2",  "message3");
+console.log('messageOne' + ' messageTwo');
+console.log('Quoth the Raven "Nevermore"'); //string containing double quotes need to start with single quotes
 console.log("one plus one equals:", 1+1);
-
+console.log("grocery list:\napple\npear\ncarrot\nicecream");
+console.log('To add tab between characters we use\\t."\t"'); //adding another backslash will ignore next character
+//Thank You!
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
