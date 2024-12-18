@@ -3,7 +3,8 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
-
+console.log('Hello theree')
+console.log('Helllllo eaddd!!! \n green')
 console.log("'Hello, World!'"); // will get an error without parentheses 
 console.log('Ilmurods new journey!') //removing the semicolon will still run the program without an error
 console.log("Ilmurod's new journey"); // either single or double quotes can be used for text
